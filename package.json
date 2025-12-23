@@ -1,0 +1,24 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "created for learn about npm",
+  "homepage": "https://github.com/poddar99/node-js#readme",
+  "bugs": {
+    "url": "https://github.com/poddar99/node-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poddar99/node-js.git"
+  },
+  "license": "ISC",
+  "author": "complete coding",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node npmtools/app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
